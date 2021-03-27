@@ -26,7 +26,7 @@ SECRET_KEY = 'f_880mz$#r(c-@_&#bmnn_tof)@=l$y7g2%r*yqti-_0lh6pe8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['zdcx.herokuapp.com']
 
 
 # Application definition
